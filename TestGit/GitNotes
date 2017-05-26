@@ -1,0 +1,20 @@
+//Never edit the master its not good 
+
+git init  --> create a git repo
+git clone  --> clone a repo from server
+
+git branch branch-name -> create a new branch
+git checkout branch-name -> to point the new branch-switching branch
+
+git add file-name  --> add particular file changes if any
+git add --all 			--> add all changes
+git commit -m commit-comments  --> commit the changes to the branch now we 	          						  are pointing
+
+git checkout master  --> switch back to master
+git merge branch-name   --> merge changes from branch-name to master
+
+git push origin branch-name  --> push the branch to server
+
+git branch -D branch-name  --> delete the branch-name
+
+
