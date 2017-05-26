@@ -20,3 +20,4 @@ git push origin branch-name  --> push the branch to server
 git branch -D branch-name  --> delete the branch-name
 
 
+//master branch
