@@ -3,6 +3,8 @@
 git init  --> create a git repo
 git clone  --> clone a repo from server
 
+git remote add origin https://github.com/mani-stagwell/TestGit.git   --> connect local repo to server repo add origin 
+
 git branch branch-name -> create a new branch
 git checkout branch-name -> to point the new branch-switching branch
 
